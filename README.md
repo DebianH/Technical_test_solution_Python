@@ -4,5 +4,3 @@ Estos problemas fueron tomados de profesor Carlos Azaustre del video https://www
 
 La solucion de estos ejercicios lo realizamos en el lenguaje Python.
 
-![Imagen](/Prueba''python.jpg)
-
